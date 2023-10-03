@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @just-osaze
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning backEnd technology, Node Js
+- 🌱 I’m currently learning frontend technology with React & Typescript
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me osaigbevo.osaz@gmail.com
 
